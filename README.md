@@ -26,6 +26,9 @@ Nairobi Transport Data.csv (zipped) is the dataset of tickets purchased from Mob
     * 3.Random Foreset Classifier
     * 4.XGBoost Classifier
 * **6.Models Evaluation**
+# Evaluation Matrices used
+  * R Squqre
+  * Accuracy
 ## Conclusion
 * We used diffent algorithms.Out of all Random forest Regression and XGB worked worked well after hyperparameter tuning.
 
